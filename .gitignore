@@ -3,6 +3,9 @@
 .DS_Store
 .vscode
 
+#ignore database files 
+*.db
+
 ### Node ###
 # Logs
 logs
@@ -52,4 +55,5 @@ jspm_packages
 .pytest_cache
 
 __pycache__
+
 
